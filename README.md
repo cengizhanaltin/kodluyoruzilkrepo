@@ -4,7 +4,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde README dosyası, bir adet index.html barındırıyor.
 
-![Proje resmi](/1.jpg)
+![Proje resmi](1.jpg)
 
 ## Installation
 -------------------------------
@@ -41,3 +41,10 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 -----------------------------------
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
+
+## Patika
+----------------------------------
+
+```
+https://app.patika.dev/cengo
+```
